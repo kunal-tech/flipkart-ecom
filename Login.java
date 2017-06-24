@@ -1,4 +1,4 @@
-public class Login
+public clas Login
 {
 	public static void main(String args[])
 		{
